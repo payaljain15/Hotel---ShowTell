@@ -1,2 +1,2 @@
-# Hotel---ShowTell
+# Hotel-ShowTell
 Full Stack Web Development
